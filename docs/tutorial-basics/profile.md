@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Profile Builder
+# Profile
 
 ### Function to Display Builder's Profile
 

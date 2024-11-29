@@ -33,3 +33,5 @@ For early users of the **DragonSoulBoundNFT** project, here are several potentia
 ### **7. Long-Term Advantages**
 - **Loyalty Multiplier:** Apply a multiplier to their rewards or XP accumulation for continued platform engagement.
 - **Legacy Badges:** Attach permanent “Founder” or “Pioneer” badges to NFT profile.
+
+Thank you for accompanying us
