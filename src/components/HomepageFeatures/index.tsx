@@ -28,7 +28,7 @@ const FeatureList: FeatureItem[] = [
         Where people can interact with our Dragon SoulBound platform
       </>
     ),
-    link: 'https://drago-nft.vercel.app',
+    link: 'https://dragonft.org',
   },
   {
     title: 'X Social',
@@ -44,15 +44,15 @@ const FeatureList: FeatureItem[] = [
 
 function Feature({title, Svg, description, link}: FeatureItem) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--4', styles.featureItem)}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <Svg className={clsx(styles.featureSvg, 'animated-svg')} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
-        <Heading as="h3">
+        <Heading as="h3" className={clsx(styles.featureTitle, 'highlight')}>
           <a href={link} target="_blank" rel="noopener noreferrer">{title}</a>
         </Heading>
-        <p>{description}</p>
+        <p className={clsx(styles.featureDescription, 'description-text')}>{description}</p>
       </div>
     </div>
   );

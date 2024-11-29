@@ -40,7 +40,6 @@ The DragonSoulBoundNFT project will primarily focus on:
 ### 3. **Unique NFT Technology**
 The DragonSoulBoundNFT platform will leverage several key NFT technologies available in the Unique Network:
 - **Minting and Transaction Sponsorship**: Allow users to mint NFTs without paying gas fees.
-- **Nesting and Bundling**: Enable tokens to be nested or bundled within other tokens.
 - **Dynamic and Customizable NFTs**: NFTs can be upgraded and modified based on user contributions and external data.
 - **Replaceable NFTs**: Introduce flexibility, allowing users to split or merge NFTs into replaceable assets.
 
