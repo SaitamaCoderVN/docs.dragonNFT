@@ -4,45 +4,50 @@ sidebar_position: 1
 
 # What is Dragon-NFT?
 
-DragonSoulBoundNFT is a platform designed to attract Web3 users from existing Discord communities. This platform offers utilities such as minting Soul Bound NFTs, serving as personal certifications for contributions within the community. These NFTs can be upgraded based on the user's XP points and their participation in the community, thereby promoting Web3 development through Unique Network technology.
+### What is Dragon SoulBound NFT?
 
-The goal of DragonSoulBoundNFT is:
-- To build an ecosystem where NFTs function as community development tools.
-- To provide Web3 communities with customizable and flexible features to enhance engagement.
+**Dragon SoulBound NFT** is an open-source NFT project designed to recognize and certify users' contributions to Web3 communities using **Soul Bound Tokens (SBTs)**. This innovative solution provides a transparent and reliable way to document achievements, foster engagement, and establish digital credentials for community members.
 
 ---
 
-### 1. **Product Description**
-The DragonSoulBoundNFT project will primarily focus on:
-- **NFT Minting**: Developing smart contracts to mint NFTs and integrating them into the platform.
-- **User Interface**: Adjusting the existing application for MVP functionality to enable community members to easily mint, manage, and trade NFTs.
-- **Interactive Documentation**: Designing documentation to guide users in interacting with the platform, where they can experience the dynamic features of the platform, showcase rewards, and upgrade NFTs.
+### **Project Overview**
+
+1. **Purpose**  
+   - To document and validate user contributions within communities.  
+   - To create a transparent profile showcasing users’ achievements, roles, and participation in their community.  
+
+2. **How It Works**  
+   - **Soul Bound Tokens (SBTs)**:  
+     Non-transferable NFTs that serve as immutable proof of contribution. These tokens can only be burned under specific conditions, such as when a user chooses to remove their association with the community.  
+   - **Upgradeable NFTs**:  
+     Tokens can be upgraded or replaced to reflect changes in user roles, levels, or achievements over time.  
+
+3. **Key Features**  
+   - **Transparency and Credibility**:  
+     SBTs create a verifiable digital record of users’ contributions, which helps build trust and reputation when engaging with new communities.  
+   - **Incentivized Participation**:  
+     Users are encouraged to actively contribute, knowing their efforts will be permanently recognized and rewarded.
+
+4. **Personalized Profile Page**  
+   Each user is provided with a shareable, publicly accessible profile page showcasing all their NFTs. This page acts as a resume for their blockchain journey, highlighting their contributions and achievements.
+
+5. **Community Tools**  
+   - **Discord and Telegram Integration**:  
+     Bots automate NFT distribution, upgrades, and airdrops, enabling seamless community management.  
+   - **Airdrops and Rewards**:  
+     Direct blockchain-based rewards for users’ contributions.  
 
 ---
 
-### 2. **TIMELINE**
-**Month 1:**
-- Complete MVP with SoulBound NFT minting functionality.
-- Implement airdrop mechanisms for NFTs and sponsor gas fees for users.
-- Adjust the existing platform to integrate basic functionality for Web3 communities.
+### **Real-World Applications**
 
-**Month 2:**
-- Add NFT upgrade functionality, allowing users to upgrade NFTs based on their contributions.
-- Deploy dynamic NFTs that can be modified and upgraded based on external data or community contributions.
-- Develop Discord and Telegram bots to enable users to interact with our platform through community channels or groups.
-
-**Month 3:**
-- Launch an engagement campaign by developing user guides through the platform's key features to demonstrate its usefulness.
-- Continuously improve the platform and user experience based on community feedback.
+- **Building Stronger Web3 Communities**:  
+  Enables efficient contribution tracking and recognition within Web3 ecosystems.  
+- **Scalability**:  
+  Adaptable to various Web3 platforms, such as Discord and Telegram.  
+- **Career Advancement**:  
+  NFTs serve as digital credentials, opening new opportunities for users in the blockchain space.
 
 ---
 
-### 3. **Unique NFT Technology**
-The DragonSoulBoundNFT platform will leverage several key NFT technologies available in the Unique Network:
-- **Minting and Transaction Sponsorship**: Allow users to mint NFTs without paying gas fees.
-- **Dynamic and Customizable NFTs**: NFTs can be upgraded and modified based on user contributions and external data.
-- **Replaceable NFTs**: Introduce flexibility, allowing users to split or merge NFTs into replaceable assets.
-
-These technologies will help users create, customize, and manage their NFTs in creative ways.
-
----
+**Dragon SoulBound NFT** is more than just a platform; it is a bridge to foster active participation, enhance transparency, and create sustainable Web3 communities. This innovative solution redefines how contributions are recognized and rewarded, empowering individuals and communities alike.
